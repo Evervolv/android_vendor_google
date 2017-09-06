@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/google
+LOCAL_PATH := vendor/google/media
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/alarms/Awaken.ogg:system/media/audio/alarms/Awaken.ogg \
